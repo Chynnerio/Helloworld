@@ -1,0 +1,22 @@
+body {
+	background-color: LightSteelBlue;
+}
+h1 {
+	font-size: 30px; 
+	color: teal;
+}
+h2 {
+	color: blueviolet;
+}
+.big {
+	font-size: 90px;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.big.uppercase {
+	color: blue;
+}
+h1 span {
+	color: violet;
+}
